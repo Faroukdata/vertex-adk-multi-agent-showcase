@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "vertex-adk-multi-agent-showcase"
+version = "0.1.0"
+description = "Multi-agent starter using Google ADK (Python) with Vertex AI"
+readme = "README.md"
+authors = [{ name = "Farouk", email = "Faroukinfo.k@gmail.com" }]
+requires-python = ">=3.10"
+dependencies = [
+"google-adk>=1.16.0",
+"google-cloud-aiplatform>=1.111",
+"python-dotenv>=1.0",
+"requests>=2.32",
+"pandas>=2.2",
+]
+
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+
+[tool.setuptools.packages.find]
+where = ["src"]

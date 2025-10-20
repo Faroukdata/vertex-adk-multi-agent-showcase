@@ -1,0 +1,25 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+venv/
+
+# Env & local
+.env
+*.log
+multi_tool_agent/.env
+*.log
+.DS_Store
+Thumbs.db
+agents_log/
+EOF
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ADK Dev UI cache (si jamais)
+agents_log/
+
+# next project
+src/
