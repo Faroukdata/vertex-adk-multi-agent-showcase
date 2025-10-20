@@ -68,6 +68,7 @@ ADK_DEFAULT_MODEL="gemini-2.5-flash"
 
 #Launch adk web
 adk web
+```
 
 ![alt text](docs/screenshots/1.png)
 
