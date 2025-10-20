@@ -69,4 +69,14 @@ ADK_DEFAULT_MODEL="gemini-2.5-flash"
 #Launch adk web
 adk web
 
-![alt text]("docs/screenshots/Capture d’écran 2025-10-20 144918.png")
+![alt text](docs/screenshots/1.png)
+
+![alt text](docs/screenshots/2.png)
+
+![alt text](docs/screenshots/3.png)
+
+![alt text](docs/screenshots/4.png)
+
+![alt text](docs/screenshots/5.png)
+
+![alt text](docs/screenshots/6.png)
